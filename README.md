@@ -1,1 +1,1 @@
-# Stock-Price-Prediction
+# Apple-Stock-Prediction
